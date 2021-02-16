@@ -22,6 +22,8 @@ function Buildhouse() {
     }
     console.log(Line);
     a++;
+    Line = "";
+    b = 0;
   }
 }
 Buildhouse();
